@@ -31,7 +31,7 @@
     "react-navigation": "^4.x",
     "react-navigation-drawer": "^2.2.1",
     "react-navigation-stack": "^2.10.2",
-    "react-navigation-tabs": "^2.10.1",
+    "react-navigation-tabs": "https://github.com/olioss/react-navigation-tabs",
     "remove": "^0.1.5"
   },
   "devDependencies": {
